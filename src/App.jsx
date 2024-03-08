@@ -36,7 +36,7 @@ function Navbar() {
 
           <div className="justify-center items-center">
             <a className="text-xl text-black dark:text-white" href="#">
-              Logo
+            <img src="./public/logo.png" alt="" />
             </a>
           </div>
 
