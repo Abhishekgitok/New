@@ -34,9 +34,11 @@ function Navbar() {
             {isNavOpen ? <FaTimes /> : <FaBars />}
           </button>
 
-          <div className="justify-center items-center">
-            <a className="text-xl text-black dark:text-white" href="#">
-            <img src="./public/logo.png" alt="" />
+          <div className="justify-center items-center text-black">
+            <a className="text-xl text-black" href="#">
+            {/* <img src="./public/logo.png" alt="" /> */}
+            Logo
+          
             </a>
           </div>
 
