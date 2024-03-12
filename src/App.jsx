@@ -5,7 +5,7 @@ function App  (){
     <>
     
       <div className=' flex mx-auto justify-around mt-4'>
-        <div className=''>
+        <div className='h-16 w-16'>
            <img src="logo.png" alt="" /> 
         </div>
         <div className=''>
