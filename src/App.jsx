@@ -19,7 +19,7 @@ function Header (){
                 {/* Logo section */}
                 <div className=' cursor-pointer  flex items-center gap-1'>
                     {/* <BookOpenIcon className='w-7 h-7 text-blue-600' /> */}
-                     <img src="public/images/logo.png" alt="" />
+                     <img src="logo.png" alt="" />
                 </div>
                 {/* Menu icon */}
                 <div onClick={() => setOpen(!open)} className='absolute right-8 top-6 cursor-pointer md:hidden w-7 h-7'>
