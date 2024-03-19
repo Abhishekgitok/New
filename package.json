@@ -10,10 +10,14 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "npx json-server --watch -p 3001 db.json"
   },
   "dependencies": {
     "@heroicons/react": "^2.1.1",
+    "@material-tailwind/react": "^2.1.9",
+    "axios": "^1.6.8",
+    "json-server": "^1.0.0-alpha.23",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.0.1"

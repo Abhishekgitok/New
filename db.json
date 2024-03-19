@@ -1,0 +1,36 @@
+{
+  "course": [
+    {
+      "id": "1",
+      "categoryy": "engineering",
+      "title": "The web",
+
+      "price": "500",
+      "img": "hero2.jpg"
+    },
+    {
+      "id": "2",
+      "categoryy": "science",
+      "title": "Data Science Course: Complete Data Science Bootcamp 2024",
+
+      "price": "500",
+      "img": "hero2.jpg"
+    },
+    {
+      "id": "3",
+      "categoryy": "science",
+      "title": "The Data Science Course: Complete Data Science Bootcamp 2024",
+
+      "price": "400",
+      "img": "hero2.jpg"
+    },
+    {
+      "id": "4",
+      "categoryy": "management",
+      "title": "The Data Science Course: Complete Data Science Bootcamp 2024",
+
+      "price": "800",
+      "img": "hero2.jpg"
+    }
+  ]
+}
