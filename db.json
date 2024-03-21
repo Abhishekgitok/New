@@ -83,6 +83,18 @@
       "maxprice":"$899"
       
      
+    },
+    {
+      "id": "8",
+      "category": "science",
+      "img":"Mern.png",
+      "title": "Rishul Sharma",
+      "name": "Rishul Sharma",
+      "time": "4h 45m",
+      "price": "$499",
+      "maxprice":"$899"
+      
+     
     }
 
   ]
