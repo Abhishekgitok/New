@@ -100,16 +100,18 @@
   ],
 
 
-  "categories":[
-    "engineering",
-    "science",
-    "web Development",
-    "Android Development",
-    "Data Science",
-    "communication",
-    "Business analytics",
-    "leadership"
-  ]
+  "categories": [
+    
+"engineering",
+"science",
+"web Development",
+"Android Development",
+"Data science",
+"Business Analyrics"
+
+]
+   
+  
 
 
 }
