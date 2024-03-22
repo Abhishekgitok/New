@@ -97,5 +97,19 @@
      
     }
 
+  ],
+
+
+  "categories":[
+    "engineering",
+    "science",
+    "web Development",
+    "Android Development",
+    "Data Science",
+    "communication",
+    "Business analytics",
+    "leadership"
   ]
+
+
 }
