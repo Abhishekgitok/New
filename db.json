@@ -1,7 +1,7 @@
 {
   "course": [
     {
-      "id": "1",
+      "id": 1,
       "category": "science",
       "img":"datascience1.webp",
       "title": "The Data Science Course: Complete Data Science Bootcamp 2024",
@@ -13,7 +13,7 @@
      
     },
     {
-      "id": "2",
+      "id": 2,
       "category": "engineering",
       "img":"course.jpg",
       "title": "HTML/CSS With Real Life Projects And cover All Topices ",
@@ -25,7 +25,7 @@
      
     },
     {
-      "id": "3",
+      "id": 3,
       "category": "science",
       "img":"datascience2.webp",
       "title": "Data Science : Complete Data Science & Machine Learning",
@@ -37,7 +37,7 @@
      
     },
     {
-      "id": "4",
+      "id": 4,
       "category": "engineering",
       "img":"Android.avif",
       "title": "Android Development With Projects",
@@ -49,7 +49,7 @@
      
     },
     {
-      "id": "5",
+      "id": 5,
       "category": "engineering",
       "img":"Android.avif",
       "title": "Programming Foundations: Algorithm",
@@ -61,7 +61,7 @@
      
     },
     {
-      "id": "6",
+      "id": 6,
       "category": "engineering",
       "img":"Mern.png",
       "title": "Full Stack using MERN",
@@ -73,7 +73,7 @@
      
     },
     {
-      "id": "7",
+      "id": 7,
       "category": "science",
       "img":"Mern.png",
       "title": "Full Stack using MERN",
@@ -85,7 +85,7 @@
      
     },
     {
-      "id": "8",
+      "id": 8,
       "category": "science",
       "img":"Mern.png",
       "title": "Rishul Sharma",
@@ -97,19 +97,9 @@
      
     }
 
-  ],
+  ]
 
 
-  "categories": [
-    
-"engineering",
-"science",
-"web Development",
-"Android Development",
-"Data science",
-"Business Analyrics"
-
-]
    
   
 
