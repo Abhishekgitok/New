@@ -107,6 +107,18 @@
       "maxprice":"₹899"
       
      
+    },
+    {
+      "id": 8,
+      "category": "science",
+      "img":"https://i.postimg.cc/tgxPPqCH/Mern.png",
+      "title": "Full Stack using MERN",
+      "name": "Suraubh Sharma",
+      "time": "4h 45m",
+      "price": "₹499",
+      "maxprice":"₹899"
+      
+     
     }
    
 
