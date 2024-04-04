@@ -7,8 +7,20 @@
       "title": "The Data Science Course: Complete Data Science Bootcamp 2024",
       "name": "Suraubh Sharma",
       "time": "4h 45m",
-      "price": "$499",
-      "maxprice":"$899"
+      "price": "₹499",
+      "maxprice":"₹899",
+      "Lectureshours":"50 Lectures",
+      "lang":"Hindi",
+      "rating":4.5,
+      "Buy":"Buy Now",
+      "coursestart":"Course Starts On 16th January, 2024",
+      "coursemode":"Mode of the Course Hybrid mode [LIVE + REC]",
+      "doubt":"LIVE Doubt Class Every Saturday [9-11pm]",
+      "ClassRecording":"Class Recording Provided Yes",
+      "CourseValidity":"Course Validity 2 Year",
+      "Lectures":"50+ hours On-Demand Video",
+      "Revision":"LIVE Revision Class Every Tuesday [9-11pm]",
+      "description":"Ready to dive into the world of data science? This bootcamp is your ticket to mastering everything from the basics to advanced techniques. Learn how to collect, manage, and analyze data like a pro. No matter if you're new or experienced, our experts will guide you through hands-on projects and real-world examples. By the end, you'll be a confident data scientist, ready to tackle any challenge and make a real impact in today's data-driven world. Join us and unlock the power of data science in 2024!"
       
      
     },
@@ -19,8 +31,20 @@
       "title": "HTML/CSS With Real Life Projects And cover All Topices ",
       "name": "Suraubh Sharma",
       "time": "4h 45m",
-      "price": "$499",
-      "maxprice":"$899"
+      "price": "₹499",
+      "maxprice":"₹899",
+      "Lectureshours":"70 Lectures",
+      "lang":"Hindi",
+      "rating":3.4,
+      "Buy":"Buy Now",
+      "coursestart":"Course Starts On 16th January, 2024",
+      "coursemode":"Mode of the Course Hybrid mode [LIVE + REC]",
+      "doubt":"LIVE Doubt Class Every Saturday [9-11pm]",
+      "ClassRecording":"Class Recording Provided Yes",
+      "CourseValidity":"Course Validity 4 Year",
+      "Lectures":"60+ hours On-Demand Video",
+      "Revision":"LIVE Revision Class Every Tuesday [9-11pm]",
+      "description":"Ready to become a master of web development? Dive into HTML/CSS with our course that covers everything you need to know, from the basics to advanced techniques. Learn by doing with real-life projects that simulate the challenges you'll face in the field. Our expert instructors will guide you through every step, ensuring you grasp concepts thoroughly and can apply them confidently. By the end of the course, you'll have the skills to design and build stunning websites from scratch, covering all the topics essential for success in the world of web development. Join us and embark on your journey to HTML/CSS mastery!"
       
      
     },
@@ -31,8 +55,8 @@
       "title": "Data Science : Complete Data Science & Machine Learning",
       "name": "Suraubh Sharma",
       "time": "4h 45m",
-      "price": "$499",
-      "maxprice":"$899"
+      "price": "₹499",
+      "maxprice":"₹899"
       
      
     },
@@ -43,8 +67,8 @@
       "title": "Android Development With Projects",
       "name": "Suraubh Sharma",
       "time": "4h 45m",
-      "price": "$499",
-      "maxprice":"$899"
+      "price": "₹499",
+      "maxprice":"₹899"
       
      
     },
@@ -55,8 +79,8 @@
       "title": "Programming Foundations: Algorithm",
       "name": "Suraubh Sharma",
       "time": "4h 45m",
-      "price": "$499",
-      "maxprice":"$899"
+      "price": "₹499",
+      "maxprice":"₹899"
       
      
     },
@@ -67,8 +91,8 @@
       "title": "Full Stack using MERN",
       "name": "Suraubh Sharma",
       "time": "4h 45m",
-      "price": "$499",
-      "maxprice":"$899"
+      "price": "₹499",
+      "maxprice":"₹899"
       
      
     },
@@ -79,8 +103,8 @@
       "title": "Full Stack using MERN",
       "name": "Suraubh Sharma",
       "time": "4h 45m",
-      "price": "$499",
-      "maxprice":"$899"
+      "price": "₹499",
+      "maxprice":"₹899"
       
      
     }
