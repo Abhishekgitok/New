@@ -4,7 +4,7 @@ import axios from "axios";
 function App() {
   const [myData, setMyData] = useState([]);
   const [isError, setIsError] = useState("");
-  const [filter, setFilter] = useState(null); // State to hold the filter category
+  const [filter, setFilter] = useState(null); 
 
   // Fetch data from the server
   const getMyPostData = async () => {
