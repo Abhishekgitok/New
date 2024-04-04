@@ -16,7 +16,7 @@ function App() {
     }
   };
 
-  // Filter items based on category
+  //
   const filterItems = (category) => {
     setFilter(category === "all" ? null : category); // Update the filter state. If "All" is selected, set filter to null
   };
