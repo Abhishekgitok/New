@@ -67,12 +67,13 @@ function App() {
         {myData
           .filter((post) => !filter || post.categoryy === filter) // Filter based on selected category
           .map((post) => {
-            const { title, price, id, img } = post;
+            const { title, price, id, img, category } = post;
             return (
               <div key={id} className="card">
                 <img src={img} alt="" className="h-60 w-60" />
                 <h2>{title}</h2>
                 <p>{price}</p>
+             
               </div>
             );
           })}
