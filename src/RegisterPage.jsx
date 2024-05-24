@@ -5,7 +5,7 @@ import { FaUser, FaLock } from "react-icons/fa";
 function RegisterPage() {
   return (
     <>
-      <section className=" grid grid-cols-1 xl:grid-cols-2 gxl:ap-36 xl:ml-10 ">
+      <section className=" grid grid-cols-1 md:grid-cols-2 xl:grid-cols-2 xl:ml-10 ">
         {/* Left Side  */}
         <div className="relative mt-10">
           <div className="relative">
@@ -35,7 +35,7 @@ function RegisterPage() {
 
         {/* Right side container  */}
 
-        <div className=" xl:mt-20   ">
+        <div className="mt-28  xl:mt-20   ">
           <div className="">
             <h1 className="text-5xl uppercase font-extrabold text-cyan-600 text-center ">
               Ats
